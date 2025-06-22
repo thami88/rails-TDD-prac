@@ -1,0 +1,19 @@
+current directory: /Users/thaminduliyanage/Workspaces/ruby-sites/projct-12-TDD/blog-rails/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+/Users/thaminduliyanage/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/thaminduliyanage/Workspaces/ruby-sites/projct-12-TDD/blog-rails/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250622-48434-bsub3o sitelibdir\=./.gem.20250622-48434-bsub3o clean
+
+current directory: /Users/thaminduliyanage/Workspaces/ruby-sites/projct-12-TDD/blog-rails/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250622-48434-bsub3o sitelibdir\=./.gem.20250622-48434-bsub3o
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/thaminduliyanage/Workspaces/ruby-sites/projct-12-TDD/blog-rails/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250622-48434-bsub3o sitelibdir\=./.gem.20250622-48434-bsub3o install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20250622-48434-bsub3o
+
+current directory: /Users/thaminduliyanage/Workspaces/ruby-sites/projct-12-TDD/blog-rails/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250622-48434-bsub3o sitelibdir\=./.gem.20250622-48434-bsub3o clean
